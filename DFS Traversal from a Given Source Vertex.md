@@ -31,12 +31,7 @@ To write a Python program to **print DFS traversal** from a given source vertex.
 # Reg.No- 212223060104
 # Name- JEFRIN INOLA J
 
-# Python3 program to print DFS traversal
-# from a given graph
 from collections import defaultdict
-
-# This class represents a directed graph using
-# adjacency list representation
 
 
 class Graph:
